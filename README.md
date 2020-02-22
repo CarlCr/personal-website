@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages.
+<h1 align="center">
+    Asteroid JS
+</h1>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CarlCr/AsteroidJS">
 
-You can use the [editor on GitHub](https://github.com/CarlCr/personal-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/CarlCr/AsteroidJS">
+  
+  <a href="https://github.com/CarlCr/AsteroidJS/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CarlCr/AsteroidJS">
+  </a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <a href="https://github.com/CarlCr/AsteroidJS/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/CarlCr/AsteroidJS">
+  </a>
 
-### Markdown
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="center">
+  <a href="#rocket-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-play">How to Play</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-game">Game</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-collaborator">Collaborator</a>
+  <a href="#-author">Author</a>
+</p>
 
-```markdown
-Syntax highlighted code block
+## :rocket: Techs
 
-# Header 1
-## Header 2
-### Header 3
+This project was developed with the following technologies:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- [Javascript](https://www.w3schools.com/js/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://https://www.w3schools.com/css/)
 
-**Bold** and _Italic_ and `Code` text
+## 💻 Project
 
-[Link](url) and ![Image](src)
-```
+AsteroidJS is a game made with javascript and html5 that consists of a spaceship to destroy the asteroids that appear in space.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 🤔 How to Play
 
-### Jekyll Themes
+use the arrow keys to change the direction of the ship and press the space key on the keyboard to fire shots at the asteroids.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarlCr/personal-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### - Move Left
+- To move to the left side press the left arrow key on your keyboard.
 
-### Support or Contact
+#### - Move Right
+- To move to the right side press the right arrow key on your keyboard.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### - To Go Forward
+- To move forward press the top key on your keyboard.
+
+#### - To Fire
+- To fire press the space key on your keyboard.
+
+## Game
+
+[link to play](https://asteroidjs.netlify.com/)
+
+
+![Game](download.png)
+
+## 🤔 How to Contribute
+
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: my new feature'`;
+- Push to your branch: `git push origin my-feature`.
+
+After the merge of your pull request is done, you can delete your branch.
+
+## :memo: License
+
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
+
+
+## Author
+
+[Carlos Garcia](https://github.com/CarlCr)
+
